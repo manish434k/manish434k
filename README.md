@@ -5,7 +5,7 @@
 >
 >**Kumar Manish**   
 >Senior Software Engineer,  
->Brainlab AG, Munich, Germany   
+>Munich, Germany   
 >
    
    
