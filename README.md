@@ -12,7 +12,7 @@
    
 ## About Me 
 
-Senior Software Engineer having years of experience in Medical device and Healthcare domain and love building products that creates an impact on people's life.   <br>Have worked with [Tata Elxsi](https://www.linkedin.com/company/tataelxsi/?originalSubdomain=in), [Dornier MedTech](https://www.linkedin.com/company/dornier-medtech/), [Brainlab AG](https://www.linkedin.com/company/brainlab/). Grew up in Patna, India lived in multiple cities, Bangalore, Pune, currently living and working in Munich, Germany. I am also a capital market 📈 enthusiast and love turning my github contribution graph 🟩 in spare time.
+Senior Software Engineer having years of experience in Medical device and Healthcare domain and love building products that creates an impact on people's life.   <br>Have worked with [Tata Elxsi](https://www.linkedin.com/company/tataelxsi/?originalSubdomain=in), [Dornier MedTech](https://www.linkedin.com/company/dornier-medtech/) in past. Grew up in Patna, India lived in multiple cities, Bangalore, Pune, currently living and working in Munich, Germany. I am also a capital market 📈 enthusiast and love turning my github contribution graph 🟩 in spare time.
 
 
 ### Have been involved in developing software for some significant medical devices  
