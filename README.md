@@ -1,7 +1,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40manish434k-239a3b.svg)](https://github.com/manish434k)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/manish434k/)
-
+[![Medium](https://img.shields.io/badge/Medium%20Blog-New%20Post-brightgreen?logo=medium)](https://medium.com/@manish434k)
 >
 >**Kumar Manish**   
 >Senior Software Engineer,  
